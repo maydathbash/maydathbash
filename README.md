@@ -1,16 +1,16 @@
-## Hi there 👋
+ey ey
 
-<!--
-**maydathbash/maydathbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy desarrollador/a **full-stack** con foco en construir productos de extremo a extremo, trabajando tanto en **servidor** como en **frontend**. Me muevo cómodo/a entre implementación, integración y automatización, priorizando código mantenible, documentación clara y una entrega consistente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías
+- **Lenguajes:** Java, JavaScript, Python, PHP, C, Bash
+- **Web:** HTML, CSS
+- **UI / Apps:** Flet (según el proyecto)
+
+### Open Source
+Aunque gran parte de mi trabajo actual está en repos privados, mi orientación es claramente **open source**: me interesa colaborar en proyectos donde pueda aportar valor real (features, fixes, tooling, mejoras de DX) y construir utilidades reutilizables que otras personas puedan adoptar.
+
+### Intereses
+Full-stack, automatización y herramientas para mejorar flujos de trabajo, y proyectos open source con impacto práctico.
